@@ -19,4 +19,4 @@ RedditToday is a Python script designed to analyze Reddit posts and identify tre
 ## Usage
 
 - Ensure you have a `credentials.json` file with your Reddit API credentials in the project directory.
-- stopWords.txt provides a list of words that the script will ignore and not count, removing words from the text file will make them countable.
+- `stopwords.txt` file contains a list of common stopwords used in text processing. It provides a list of words that the script will ignore and not count, removing words from the text file will make them countable.
