@@ -10,8 +10,8 @@ RedditToday is a Python script designed to analyze Reddit posts and identify tre
 ## Requirements
 
 - Python 3.x
-- Required libraries listed in `requirements.txt`
+- Required libraries listed in `requirements.txt` (Note: Some libraries may be outdated and will require changes to work with the latest versions.)
 
 ## Usage
 
-1. Ensure you have a `credentials.json` file with your Reddit API credentials in the project directory.
+- Ensure you have a `credentials.json` file with your Reddit API credentials in the project directory.
