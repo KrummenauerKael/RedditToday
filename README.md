@@ -4,8 +4,12 @@ RedditToday is a Python script designed to analyze Reddit posts and identify tre
 
 ## Features
 
-- Searches for top words in Reddit posts.
+- Searches for top words in Reddit posts or can be used to search specific desireable words.
 - Provides insights into user interests based on post content.
+
+![example_img](https://github.com/user-attachments/assets/00cbb7ab-7699-4200-88e1-0be03e88bc7c)
+
+![example_img_v2](https://github.com/user-attachments/assets/7ef48fd5-8766-4d8a-bb97-0a25ee550ee6)
 
 ## Requirements
 
